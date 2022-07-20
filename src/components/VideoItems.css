@@ -1,0 +1,11 @@
+.video-item{
+    display: flex !important;
+    /* align-content: center !important; */
+    align-items: center !important;
+    /* point:'corsur'; */
+    cursor: pointer;
+}
+.image{
+    max-width: 180px;
+   
+}
